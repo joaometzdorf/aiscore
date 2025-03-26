@@ -14,7 +14,7 @@
 
 ### Clone este repositório:
 
-### git clone https://github.com/joaometzdorf/scrap-aiscore.git
+### git clone https://github.com/joaometzdorf/aiscore.git
 
 ## Acesse o diretório do projeto:
 
